@@ -3,7 +3,9 @@ Protocol and Useful tips for MAVEn runs for ants &amp; fruit flies
 
 USEFUL TIP
 - thermocouple test 
+
 ![Picture1](https://user-images.githubusercontent.com/98350318/151409179-be4744b2-6027-4531-91f6-f3ea0746ad05.jpg)
+
 
 
 
